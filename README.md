@@ -1,6 +1,7 @@
 # Android_NoteTaker
 
 To Run it on real phone:
+
 On phone:
   1. Go to settings
   2. About phone
