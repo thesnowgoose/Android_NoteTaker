@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="add_note">New Note</string>
+    <string name="confirm_delete">Are you sure you wanna delete this note?</string>
+</resources>
