@@ -3,11 +3,11 @@
 To Run it on real phone:
 
 On phone:
-  1. Go to settings
-  2. About phone
-  3. 7 touches build 
-  4. Turn device options on
-  5. Enable usb depuration
+  1. Go to 'Settings'
+  2. 'About phone'
+  3. 7 touches on 'Build number'
+  4. Turn 'Developer options' on
+  5. Enable 'USB depuration'
   
 Oncomputer Terminal:
   To search for connected devices:
